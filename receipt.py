@@ -1,6 +1,6 @@
 from datetime import datetime
-from model.store import Store
-from model.item import Item
+from .store import Store
+from .item import Item
 
 class Receipt:
 
